@@ -1,0 +1,42 @@
+D:\Development\VS2019\Attendance Monitoring System\Attendance Monitoring System\bin\Debug\Attendance Monitoring System.exe.config
+D:\Development\VS2019\Attendance Monitoring System\Attendance Monitoring System\bin\Debug\Attendance Monitoring System.exe
+D:\Development\VS2019\Attendance Monitoring System\Attendance Monitoring System\bin\Debug\Attendance Monitoring System.pdb
+D:\Development\VS2019\Attendance Monitoring System\Attendance Monitoring System\bin\Debug\Attendance Monitoring System.xml
+D:\Development\VS2019\Attendance Monitoring System\Attendance Monitoring System\obj\Debug\Attendance Monitoring System.vbproj.AssemblyReference.cache
+D:\Development\VS2019\Attendance Monitoring System\Attendance Monitoring System\obj\Debug\Attendance_Monitoring_System.frmLogin.resources
+D:\Development\VS2019\Attendance Monitoring System\Attendance Monitoring System\obj\Debug\Attendance_Monitoring_System.Resources.resources
+D:\Development\VS2019\Attendance Monitoring System\Attendance Monitoring System\obj\Debug\Attendance Monitoring System.vbproj.GenerateResource.cache
+D:\Development\VS2019\Attendance Monitoring System\Attendance Monitoring System\obj\Debug\Attendance Monitoring System.vbproj.CoreCompileInputs.cache
+D:\Development\VS2019\Attendance Monitoring System\Attendance Monitoring System\obj\Debug\Attendance Monitoring System.exe
+D:\Development\VS2019\Attendance Monitoring System\Attendance Monitoring System\obj\Debug\Attendance Monitoring System.xml
+D:\Development\VS2019\Attendance Monitoring System\Attendance Monitoring System\obj\Debug\Attendance Monitoring System.pdb
+D:\Development\VS2019\Attendance Monitoring System\Attendance Monitoring System\bin\Debug\Mimobibo.dll
+D:\Development\VS2019\Attendance Monitoring System\Attendance Monitoring System\bin\Debug\Mimobibo.pdb
+D:\Development\VS2019\Attendance Monitoring System\Attendance Monitoring System\obj\Debug\Attendance Monitoring System.vbproj.CopyComplete
+D:\Development\VS2019\Attendance Monitoring System\Attendance Monitoring System\obj\Debug\Attendance_Monitoring_System.frmMain.resources
+D:\Development\VS2019\Attendance Monitoring System\Attendance Monitoring System\obj\Debug\Attendance_Monitoring_System.frmStudentRegister.resources
+D:\Development\VS2019\Attendance Monitoring System\Attendance Monitoring System\bin\Debug\sams.mdb
+D:\Development\VS2019\Attendance Monitoring System\Attendance Monitoring System\obj\Debug\Attendance_Monitoring_System.Attendance.resources
+D:\Development\VS2019\Attendance Monitoring System\Attendance Monitoring System\obj\Debug\Attendance_Monitoring_System.frmChoose.resources
+D:\Development\VS2019\Attendance Monitoring System\Attendance Monitoring System\obj\Debug\Attendance_Monitoring_System.StudentList.resources
+F:\Attendance Monitoring System\Attendance Monitoring System\bin\Debug\sams.mdb
+F:\Attendance Monitoring System\Attendance Monitoring System\bin\Debug\Attendance Monitoring System.exe.config
+F:\Attendance Monitoring System\Attendance Monitoring System\bin\Debug\Attendance Monitoring System.exe
+F:\Attendance Monitoring System\Attendance Monitoring System\bin\Debug\Attendance Monitoring System.pdb
+F:\Attendance Monitoring System\Attendance Monitoring System\bin\Debug\Attendance Monitoring System.xml
+F:\Attendance Monitoring System\Attendance Monitoring System\bin\Debug\Mimobibo.dll
+F:\Attendance Monitoring System\Attendance Monitoring System\bin\Debug\Mimobibo.pdb
+F:\Attendance Monitoring System\Attendance Monitoring System\obj\Debug\Attendance Monitoring System.vbproj.AssemblyReference.cache
+F:\Attendance Monitoring System\Attendance Monitoring System\obj\Debug\Attendance_Monitoring_System.Attendance.resources
+F:\Attendance Monitoring System\Attendance Monitoring System\obj\Debug\Attendance_Monitoring_System.frmChoose.resources
+F:\Attendance Monitoring System\Attendance Monitoring System\obj\Debug\Attendance_Monitoring_System.frmLogin.resources
+F:\Attendance Monitoring System\Attendance Monitoring System\obj\Debug\Attendance_Monitoring_System.frmMain.resources
+F:\Attendance Monitoring System\Attendance Monitoring System\obj\Debug\Attendance_Monitoring_System.frmStudentRegister.resources
+F:\Attendance Monitoring System\Attendance Monitoring System\obj\Debug\Attendance_Monitoring_System.Resources.resources
+F:\Attendance Monitoring System\Attendance Monitoring System\obj\Debug\Attendance_Monitoring_System.StudentList.resources
+F:\Attendance Monitoring System\Attendance Monitoring System\obj\Debug\Attendance Monitoring System.vbproj.GenerateResource.cache
+F:\Attendance Monitoring System\Attendance Monitoring System\obj\Debug\Attendance Monitoring System.vbproj.CoreCompileInputs.cache
+F:\Attendance Monitoring System\Attendance Monitoring System\obj\Debug\Attendance Monitoring System.vbproj.CopyComplete
+F:\Attendance Monitoring System\Attendance Monitoring System\obj\Debug\Attendance Monitoring System.exe
+F:\Attendance Monitoring System\Attendance Monitoring System\obj\Debug\Attendance Monitoring System.xml
+F:\Attendance Monitoring System\Attendance Monitoring System\obj\Debug\Attendance Monitoring System.pdb

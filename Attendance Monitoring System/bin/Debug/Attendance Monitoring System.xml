@@ -1,0 +1,146 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Attendance Monitoring System
+</name>
+</assembly>
+<members>
+<member name="T:Attendance_Monitoring_System.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Attendance_Monitoring_System.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Attendance_Monitoring_System.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Attendance_Monitoring_System.My.Resources.Resources.close_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Attendance_Monitoring_System.My.Resources.Resources.official_ctu_logov2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Attendance_Monitoring_System.My.Resources.Resources.outline_search_black_48dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Attendance_Monitoring_System.samsDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Attendance_Monitoring_System.samsDataSet.StudentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Attendance_Monitoring_System.samsDataSet.Student1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Attendance_Monitoring_System.samsDataSet.AttendanceLogDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Attendance_Monitoring_System.samsDataSet.StudentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Attendance_Monitoring_System.samsDataSet.Student1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Attendance_Monitoring_System.samsDataSet.AttendanceLogRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Attendance_Monitoring_System.samsDataSet.StudentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Attendance_Monitoring_System.samsDataSet.Student1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Attendance_Monitoring_System.samsDataSet.AttendanceLogRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Attendance_Monitoring_System.samsDataSetTableAdapters.StudentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Attendance_Monitoring_System.samsDataSetTableAdapters.Student1TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Attendance_Monitoring_System.samsDataSetTableAdapters.AttendanceLogTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Attendance_Monitoring_System.samsDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Attendance_Monitoring_System.samsDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Attendance_Monitoring_System.samsDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Attendance_Monitoring_System.samsDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Attendance_Monitoring_System.samsDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Attendance_Monitoring_System.samsDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Attendance_Monitoring_System.samsDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Attendance_Monitoring_System.samsDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Attendance_Monitoring_System.samsDataSetTableAdapters.TableAdapterManager.UpdateAll(Attendance_Monitoring_System.samsDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Attendance_Monitoring_System.samsDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Attendance_Monitoring_System.samsDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
